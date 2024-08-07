@@ -9,13 +9,4 @@ function Team(){
         </div>
     )
 }
-const World = ()=>
-{
-     return(
- 
-        <div>
-            <Team/>
-        </div>
-     )
-}
-export default World;
+export default Team;
