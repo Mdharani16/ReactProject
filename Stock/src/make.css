@@ -1,0 +1,50 @@
+/* Login and Signup Page */
+.login-container, .signup-container {
+    margin: 0 auto;
+    padding: 30px;
+    width: 300px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.login-container h2, .signup-container h2 {
+    margin-bottom: 20px;
+}
+
+.login-container label, .signup-container label {
+    display: block;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.login-container input, .signup-container input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.login-container button, .signup-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #27ae60;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.login-container button:hover, .signup-container button:hover {
+    background-color: #2ecc71;
+}
+
+.link {
+    color: #2980b9;
+    cursor: pointer;
+}
+
+.link:hover {
+    text-decoration: underline;
+}

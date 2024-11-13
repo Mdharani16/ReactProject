@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Stock Management System</title>
+    <script src="login.js" defer></script>
+    <script src="signup.js" defer></script>
+    <script src="dashboard.js" defer></script>
+    <script src="app.js" defer></script>
+
+</head>
+<body>
+
+<!-- Navbar -->
+<div class="navbar">
+    <div class="logo">Stock Management System</div>
+    <div class="nav-buttons">
+        <button onclick="showLoginForm()">Login</button>
+        <button onclick="showSignUpForm()">Sign Up</button>
+    </div>
+</div>
+
+<!-- Main Content -->
+<div id="main-content">
+    <div class="dashboard-content" style="display:none;" id="dashboard">
+        <!-- Dashboard content goes here -->
+    </div>
+
+    <div id="login-form" class="form-container" style="display:none;">
+        <!-- Login Form -->
+    </div>
+
+    <div id="signup-form" class="form-container" style="display:none;">
+        <!-- Signup Form -->
+    </div>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+    <p>&copy; 2024 Stock Management System. All rights reserved.</p>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "2928",
+      "username": "Dharani",
+      "password": "skdh2200@"
+    },
+    {
+      "id": "5a25",
+      "username": "dhivya",
+      "password": "skdh2200&"
+    },
+    {
+      "id": "3786",
+      "username": "Dhanya",
+      "password": "dhanya@56"
+    },
+    {
+      "id": "5b6b",
+      "username": "Dharu",
+      "password": "skdh22@"
+    }
+  ],
+  "products": [
+    {
+      "id": "4350",
+      "name": "p1",
+      "quantity": 64
+    },
+    {
+      "id": "87b1",
+      "name": "p2",
+      "quantity": 158
+    },
+    {
+      "id": "0e62",
+      "name": "p3",
+      "quantity": 120
+    },
+    {
+      "id": "d245",
+      "name": "p4",
+      "quantity": 23
+    },
+    {
+      "id": "1e88",
+      "name": "p5",
+      "quantity": 35
+    },
+    {
+      "id": "3d43",
+      "name": "p6",
+      "quantity": 89
+    },
+    {
+      "id": "9e6f",
+      "name": "p7",
+      "quantity": 78
+    },
+    {
+      "id": "4067",
+      "name": "p11",
+      "quantity": 789
+    }
+  ],
+  "stocks": []
+}
